@@ -25,6 +25,8 @@ void task1(){
     cout << hex << z << ' ' << hex << w << endl;
 }
 ```
+output on display:
+![output on display](https://ibb.co/j6NrZZ5)
 ### Задание 2
 
 ```
