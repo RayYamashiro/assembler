@@ -26,7 +26,9 @@ void task1(){
 }
 ```
 output on display:
-![output on display](https://ibb.co/j6NrZZ5)
+
+
+![output on display](https://i.postimg.cc/W3tNKKW5/1.png)
 ### Задание 2
 
 ```
@@ -49,6 +51,10 @@ void task2(){
     cout << z << ' ' << w << endl;
 }
 ```
+output on display:
+
+
+![output on display](https://i.postimg.cc/bdfqZvz5/2.png)
 ### Задание 3
 ```
 void task3(){
@@ -73,6 +79,10 @@ void task3(){
     cout << z << ' ' << w << endl;
 }
 ```
+output on display:
+
+
+![output on display](https://i.postimg.cc/1RkFGcXk/3.png)
 ### Задание 4
 ```
 void task4(){
@@ -95,6 +105,10 @@ void task4(){
     cout << z << ' ' << w << endl;
 }
 ```
+output on display:
+
+
+![output on display](https://i.postimg.cc/HWc58PY0/4.png)
 ### Задание 5
 ```
 void task5(){
@@ -119,6 +133,10 @@ void task5(){
         printf("%#10X ", M[i]);
 }
 ```
+output on display:
+
+
+![output on display](https://i.postimg.cc/4y9J4cTt/5.png)
 ### Задание 6
 ```
 void task6(){
@@ -142,3 +160,7 @@ void task6(){
         printf("%#10X ", M[i]);
 }
 ```
+output on display:
+
+
+![output on display](https://i.postimg.cc/Y9Vrw3TM/6.png)
