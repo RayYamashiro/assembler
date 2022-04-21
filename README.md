@@ -1,5 +1,9 @@
 
 # Лабораторная работа по ЭВМ №5
+
+### Задание 1
+
+
 ```
 void task1(){
     unsigned int x,y,z,w;
@@ -21,7 +25,7 @@ void task1(){
     cout << hex << z << ' ' << hex << w << endl;
 }
 ```
-
+### Задание 2
 
 ```
 void task2(){
@@ -43,7 +47,7 @@ void task2(){
     cout << z << ' ' << w << endl;
 }
 ```
-
+### Задание 3
 ```
 void task3(){
     unsigned int x,y,z,w;
@@ -67,7 +71,7 @@ void task3(){
     cout << z << ' ' << w << endl;
 }
 ```
-
+### Задание 4
 ```
 void task4(){
     unsigned short x,y,z,w;
@@ -89,7 +93,7 @@ void task4(){
     cout << z << ' ' << w << endl;
 }
 ```
-
+### Задание 5
 ```
 void task5(){
     int const N = 5;
@@ -113,7 +117,7 @@ void task5(){
         printf("%#10X ", M[i]);
 }
 ```
-
+### Задание 6
 ```
 void task6(){
     int const N = 5;
