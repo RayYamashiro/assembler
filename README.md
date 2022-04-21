@@ -2,8 +2,9 @@
 # Лабораторная работа по ЭВМ №5
 
 ### Задание 1
+Task:
 
-
+![task1](https://i.postimg.cc/NFJPnJnk/1.png)
 ```
 void task1(){
     unsigned int x,y,z,w;
@@ -30,7 +31,9 @@ output on display:
 
 ![output on display](https://i.postimg.cc/W3tNKKW5/1.png)
 ### Задание 2
+Task:
 
+![task2](https://i.postimg.cc/P5Z2b5d4/2.png)
 ```
 void task2(){
     unsigned int x,y,z,w;
@@ -56,6 +59,9 @@ output on display:
 
 ![output on display](https://i.postimg.cc/bdfqZvz5/2.png)
 ### Задание 3
+Task:
+
+![task3](https://i.postimg.cc/T3rJLNcN/3.png)
 ```
 void task3(){
     unsigned int x,y,z,w;
@@ -84,6 +90,9 @@ output on display:
 
 ![output on display](https://i.postimg.cc/1RkFGcXk/3.png)
 ### Задание 4
+Task:
+
+![task4](https://i.postimg.cc/5y24ct4d/4.png)
 ```
 void task4(){
     unsigned short x,y,z,w;
@@ -110,6 +119,9 @@ output on display:
 
 ![output on display](https://i.postimg.cc/HWc58PY0/4.png)
 ### Задание 5
+Task:
+
+![task5](https://i.postimg.cc/ydXx4509/5.png)
 ```
 void task5(){
     int const N = 5;
@@ -138,6 +150,9 @@ output on display:
 
 ![output on display](https://i.postimg.cc/4y9J4cTt/5.png)
 ### Задание 6
+Task:
+
+![task6](https://i.postimg.cc/0jYp4cyH/6.png)
 ```
 void task6(){
     int const N = 5;
